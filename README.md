@@ -1,1 +1,1 @@
-# odin-recipes
+This is a recipes website built as part of The Odin Project's Foundations course. Through this project, I'm practicing and demonstrating the skills I've learned so far: Git basics (creating repos, cloning, committing), HTML fundamentals (elements, tags, and boilerplate structure), and how to structure content using lists, links, and images.
